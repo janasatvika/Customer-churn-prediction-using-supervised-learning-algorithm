@@ -1,4 +1,7 @@
 # Customer-churn-prediction-using-supervised-learning-algorithm
+
+![Logo](https://github.com/janasatvika/Customer-churn-prediction-using-supervised-learning-algorithm/blob/main/img%20assets/thumbnail.jpg)
+
 <p>
 The repository presented steps for building a model that predicted whether a customer would switch telecommunication service providers. The algorithms tested were Naive Bayes (NB), Decision Tree (DT), K-Nearest Neighbor (KNN), and Support Vector Machine (SVM). Two sets of data were provided: training data to train the model and test data to evaluate the model. The training data comprised 4250 rows with 20 columns. Out of a total of 4,250 samples, 3,652 (85.93%) belonged to the churn=no class, while 598 (14.07%) belonged to the churn=yes class. The test data comprised 750 rows with 20 columns, including the index of each sample and 19 features (excluding the target variable 'churn'). 
 </p>
